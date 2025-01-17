@@ -67,7 +67,6 @@ allChoices.forEach((choice) => {
   });
 });
 
-// Reset Game functionality
 resetBtn.addEventListener("click", () => {
   user = 0;
   comp = 0;
